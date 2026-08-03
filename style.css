@@ -36,7 +36,8 @@ body {
   background-alignment: top center;
   background-size: cover;
   */
-
+  width: 100%;
+  overflow-x: hidden;
   background: var(--bg-url) no-repeat top center/cover;
 }
 body * {
@@ -49,6 +50,7 @@ body * {
 #container {
   width: 100%;
   max-width: 360px;
+  box-sizing: border-box;
   padding: 0px 24px;
   margin: 56px auto 0px auto;
 }
