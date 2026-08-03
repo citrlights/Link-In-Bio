@@ -2,7 +2,7 @@
 
 Página pessoal de links com suporte a tema claro/escuro, feita em HTML, CSS e JavaScript puro.
 
-🔗 [Ver o site](https://citrlights.github.io/link-in-bio)
+🔗 [Ver o site](https://citrlights.github.io/Link-In-Bio)
 
 ## Tecnologias
 
